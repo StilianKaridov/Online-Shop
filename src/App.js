@@ -1,5 +1,6 @@
 import logo from './logo.svg';
 import './App.css';
+import NavBar from './components/NavBar/NavBar';
 
 function App() {
   return (
@@ -16,6 +17,10 @@ function App() {
           rel="noopener noreferrer"
         >
           Learn React
+          
+          <NavBar>
+
+          </NavBar>
         </a>
       </header>
     </div>
