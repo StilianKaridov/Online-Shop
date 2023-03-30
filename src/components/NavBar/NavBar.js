@@ -1,13 +1,10 @@
 import React from 'react';
-import Button from 'react-bootstrap/Button';
 import { Navbar, Nav } from 'react-bootstrap';
 import { LinkContainer } from 'react-router-bootstrap';
-import { BrowserRouter as Router, Route, Switch } from 'react-router-dom';
 
-function NavBar(props) {
+function NavBar() {
 
     return (
-        <Router>
             <Navbar bg="light" expand="lg">
                 <LinkContainer to="/">
                     <Navbar.Brand>My App</Navbar.Brand>
@@ -27,7 +24,6 @@ function NavBar(props) {
                     </Nav>
                 </Navbar.Collapse>
             </Navbar>
-        </Router>
 
     );
 }
