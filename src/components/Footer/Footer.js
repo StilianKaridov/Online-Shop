@@ -1,8 +1,15 @@
 import React from 'react';
 
+import { Link } from 'react-router-dom';
+
 function Footer() {
 
+    const handleClick = () => {
+        window.scrollTo(0, 0);
+    };
+
     return (
+
         <footer>
             <div className="bg-dark d-flex justify-content-between">
 
@@ -12,9 +19,35 @@ function Footer() {
                         <h5 className="text-white">Категории</h5>
                         <div>
                             <ul>
-                                <li><a className="text-white text-decoration-none" href="/products/muje">Мъжки</a></li>
-                                <li><a className="text-white text-decoration-none" href="/products/jeni">Дамски</a></li>
-                                <li><a className="text-white text-decoration-none" href="/products/deca">Детски</a></li>
+                                <li>
+                                    <Link 
+                                        className="text-white text-decoration-none" 
+                                        to={"/products/muje"} 
+                                        onClick={handleClick} 
+                                    >
+                                        Мъжки
+                                    </Link>
+                                </li>
+
+                                <li>
+                                    <Link 
+                                        className="text-white text-decoration-none" 
+                                        to={"/products/jeni"} 
+                                        onClick={handleClick}
+                                    >
+                                        Дамски
+                                    </Link>
+                                </li>
+
+                                <li>
+                                    <Link 
+                                        className="text-white text-decoration-none" 
+                                        to={"/products/deca"} 
+                                        onClick={handleClick}
+                                    >
+                                        Детски
+                                    </Link>
+                                </li>
                             </ul>
                         </div>
 
