@@ -1,6 +1,6 @@
 import { useState, useEffect } from 'react';
 import 'bootstrap/dist/css/bootstrap.min.css';
-
+//Мисля че трябва да го преместим в UI папка но по-късно
 function BackToTopButton() {
   const [showButton, setShowButton] = useState(false);
 
@@ -28,7 +28,7 @@ function BackToTopButton() {
     <>
       {showButton && (
         <button
-          className="btn btn-light back-to-top"
+          className="btn btn-secondary back-to-top"
           onClick={handleBackToTop}
           style={{ position: 'fixed', bottom: '20px', right: '20px' }}
         >
