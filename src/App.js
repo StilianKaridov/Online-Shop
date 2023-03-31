@@ -16,7 +16,7 @@ function App() {
       </NavBar>
       {/* Ще трябва да го променим в процеса най-вероятно. Tова е да държи footer долу */}
       <div className='flex-wrapper min-vh-100 d-flex flex-column justify-content-between'>
-        <main>
+        <main className='m-2 p-3'>
           {/* //Да се пробвам да ги сложа в футъра */}
           <Routes >
             <Route path='/products/muje' element={<Men />} />
