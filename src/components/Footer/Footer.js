@@ -11,7 +11,7 @@ function Footer() {
     return (
 
         <footer>
-            <div className="bg-dark d-flex justify-content-between">
+            <div className="bg-dark d-flex justify-content-between ps-5">
 
                 <div className="mt-5 mb-5 row w-50">
 
