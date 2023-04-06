@@ -14,13 +14,13 @@ export default function ShippingAndPayment() {
                     </h3>
                 </Col>
             </Row>
-
+            <hr/>
             <Row className='text-center'>
                 <Col>
                     <img src={information} alt="Shipping and Payment information" className='img-fluid'/>
                 </Col>
             </Row>
-
+            <hr/>
             <Row>
                 <Col>
                     Ние, от DS Fashion, се стремим към <b>бързина и професионализъм</b> при доставката на Вашите поръчки,
