@@ -5,6 +5,7 @@ import Women from '../Women/Women';
 import Men from '../Men/Men';
 import ShippingAndPayment from "../ShippingPlusPayment/ShippingPlusPayment";
 import Contacts from "../Contacts/Contacts";
+import AboutUs from "../AboutUs/AboutUs";
 import { Routes, Route } from 'react-router-dom';
 
 function AllRoutes() {
@@ -17,6 +18,7 @@ function AllRoutes() {
             <Route path='/products/deca' element={<Children />} />
             <Route path='/page/dostavka-i-plashtane' element={<ShippingAndPayment />} />
             <Route path='/contacts' element={<Contacts />} />
+            <Route path='/page/za-nas' element={<AboutUs />} />
         </Routes>
     );
 }
