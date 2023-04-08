@@ -6,12 +6,12 @@ import Men from '../Men/Men';
 import ShippingAndPayment from "../ShippingPlusPayment/ShippingPlusPayment";
 import Contacts from "../Contacts/Contacts";
 import AboutUs from "../AboutUs/AboutUs";
+import FreqQuestions from "../FreqQuestions/FreqQuestions"
 import { Routes, Route } from 'react-router-dom';
 
 function AllRoutes() {
 
     return (
-        // To add more Routes, for the client service tab in footer
         <Routes >
             <Route path='/products/muje' element={<Men />} />
             <Route path='/products/jeni' element={<Women />} />
@@ -19,6 +19,7 @@ function AllRoutes() {
             <Route path='/page/dostavka-i-plashtane' element={<ShippingAndPayment />} />
             <Route path='/contacts' element={<Contacts />} />
             <Route path='/page/za-nas' element={<AboutUs />} />
+            <Route path='/page/chesto-zadavani-vuprosi' element={<FreqQuestions />} />
         </Routes>
     );
 }
