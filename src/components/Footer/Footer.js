@@ -60,10 +60,10 @@ function Footer() {
                                 <li>
                                     <Link
                                         className="text-white text-decoration-none"
-                                        to={"/page/zamyana-ili-vrushtane"}
+                                        to={"/page/chesto-zadavani-vuprosi"}
                                         onClick={handleClick}
                                     >
-                                        ЗАМЯНА ИЛИ ВРЪЩАНЕ
+                                        Често задавани въпроси
                                     </Link>
                                 </li>
 
