@@ -1,5 +1,6 @@
 import React from "react";
 
+import Home from '../Home/Home'
 import Children from '../Children/Children';
 import Women from '../Women/Women';
 import Men from '../Men/Men';
@@ -13,6 +14,7 @@ function AllRoutes() {
 
     return (
         <Routes >
+            <Route path='/' element={<Home />}/>
             <Route path='/products/muje' element={<Men />} />
             <Route path='/products/jeni' element={<Women />} />
             <Route path='/products/deca' element={<Children />} />
