@@ -1,8 +1,11 @@
 import React from "react";
 
+import MainImage from '../../images/MainImage.mp4?t=123456'
+
 export default function Home() {
     return (
-        //В тази страница да връщаме някви промоции например !! да се помисли.
-        <h1>Home component</h1>
+        <video playsInline="playsinline" loading="lazy" autoPlay muted style={{ top: 0, left: 0, width: '100%', height: '100%' }}>
+            <source src={MainImage} type="video/mp4" />
+        </video>
     );
 }
