@@ -11,14 +11,14 @@ function Footer() {
     return (
 
         <footer>
-            <div className="bg-dark d-flex justify-content-between ps-5">
+            <div className="d-flex justify-content-between ps-5" style={{ backgroundColor: 'rgb(37, 35,	36)'}}>
 
                 <div className="mt-5 mb-5 row w-50">
 
                     <div className="col-md-6">
                         <h5 className="text-white">Категории</h5>
                         <div>
-                            <ul>
+                            <ul className='p-0'>
                                 <li>
                                     <Link
                                         className="text-white text-decoration-none"
@@ -56,7 +56,7 @@ function Footer() {
                     <div className="col-md-6">
                         <h5 className="text-white">Клиентски услуги</h5>
                         <div>
-                            <ul>
+                            <ul className='p-0'>
                                 <li>
                                     <Link
                                         className="text-white text-decoration-none"
@@ -102,7 +102,10 @@ function Footer() {
                     </div>
 
                 </div>
+            </div>
 
+            <div className='bg-gradient-dark text-center text-white p-3' style={{ backgroundColor: 'rgba(52,51,51,255)'}}>
+                    © 2023 Copyright: DS Fashion
             </div>
         </footer>
     );
