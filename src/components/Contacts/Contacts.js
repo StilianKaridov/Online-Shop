@@ -9,8 +9,8 @@ export default function Contacts() {
 
     return (
         <Container fluid>
-            <Row className='text-center'>
-                <Col>
+            <Row>
+                <Col className='col-8 text-center'>
                     <h3>
                         Контакти
                     </h3>
@@ -73,7 +73,7 @@ export default function Contacts() {
                     </Row>
                 </Col>
 
-                <Col className='ps-5'>
+                <Col className='ps-5' sm={6}>
                     <p>
                         Бихме се радвали на вашата обратна връзка!
                         Ако имате някакви въпроси относно нашите продукти или услуги или ако имате нужда от помощ при поръчка, моля,

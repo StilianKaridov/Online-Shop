@@ -8,8 +8,8 @@ export default function ShippingAndPayment() {
 
     return (
         <Container fluid>
-            <Row className='text-center'>
-                <Col>
+            <Row>
+                <Col className='col-8 text-center'>
                     <h3>
                         За нас
                     </h3>

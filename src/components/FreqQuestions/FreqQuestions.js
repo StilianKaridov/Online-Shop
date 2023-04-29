@@ -16,8 +16,8 @@ export default function FreqQuestions() {
 
     return (
         <Container fluid>
-            <Row className='text-center'>
-                <Col>
+            <Row>
+                <Col className='col-8 text-center'>
                     <h3>
                         Често задавани въпроси
                     </h3>
