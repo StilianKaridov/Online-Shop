@@ -1,0 +1,9 @@
+.msauto{
+   margin-left: auto;
+}
+
+@media only screen and (max-width: 991px) {
+    .msauto {
+        display:inline-block;
+    }
+  }

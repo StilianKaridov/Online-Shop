@@ -2,6 +2,7 @@ import React, { useState, Fragment } from 'react';
 import { Navbar, Nav } from 'react-bootstrap';
 import { LinkContainer } from 'react-router-bootstrap';
 import logo from '../../images/logo.jpg';
+import classes from './BreakPointForButton.module.css'
 import NavBarCartButton from './NavBarCartButton';
 
 function NavBar(props) {
@@ -29,7 +30,7 @@ function NavBar(props) {
                             <Nav.Link>Детски</Nav.Link>
                         </LinkContainer>
                     </Nav>
-                    <div className='ms-auto'>
+                    <div className={classes.msauto }>
                         <NavBarCartButton onClick={handelCart}></NavBarCartButton>
                     </div>
                 </Navbar.Collapse>
