@@ -2,216 +2,216 @@
     "Men": [
         {
             "id": "1",
-            "name": "Lorem",
+            "name": "Ботуши",
             "image": "https://cdn.shopify.com/s/files/1/0419/1525/products/Explorer_Olive_34G_576x576.jpg?v=1568994449",
-            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+            "description": "Ботуши-кафяви",
             "price": 32.00
         },
         {
             "id": "2",
-            "name": "Lorem",
+            "name": "Панталон",
             "image": "https://media.istockphoto.com/id/1221134337/photo/front-views-black-trousers.jpg?s=1024x1024&w=is&k=20&c=rVKYfysfiwgAWdVY5d0PXcy_RQHtRtxwNQMe365kVac=",
-            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+            "description": "Панталон-черен",
             "price": 48.52
         },
         {
             "id": "3",
-            "name": "Lorem",
+            "name": "Риза",
             "image": "https://media.istockphoto.com/id/498852901/photo/red-plaid-shirt.jpg?s=612x612&w=0&k=20&c=FN0dBgzq0_GDJo5fKwRyM-QDz37TUVxAGKK4o3TSLnI=",
-            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+            "description": "Риза червено-черна",
             "price": 23.54
         },
         {
             "id": "4",
-            "name": "Lorem",
+            "name": "Пуловер",
             "image": "https://media.istockphoto.com/id/1069034254/vector/jacket-design-vector.jpg?s=1024x1024&w=is&k=20&c=1KtMhr6W4BqYoRf8ReYp_EHVzQwjen56rNh6cSBzxZ8=",
-            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+            "description": "Пуловер-черен",
             "price": 64.23
         },
         {
             "id": "5",
-            "name": "Lorem",
+            "name": "Дънки",
             "image": "https://manzara.b-cdn.net/media/catalog/product/cache/49/small_image/210x280/0dc2d03fe217f8c83829496872af24a0/m/e/men_s_pants_haris_grey.jpg",
-            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+            "description": "Дънки",
             "price": 123.23
         },
         {
             "id": "6",
-            "name": "Lorem",
+            "name": "Маратонки",
             "image": "https://eobuvki.bg/img/img_e_shop/p_1001261_1.jpg",
-            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+            "description": "Маратонки-черни",
             "price": 123.99
         },
         {
             "id": "7",
-            "name": "Lorem",
+            "name": "Обувки",
             "image": "https://img.tendenz.bg/pics/M_el_boots_W20.jpg",
-            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+            "description": "Обувки",
             "price": 78.40
         },
         {
             "id": "8",
-            "name": "Lorem",
+            "name": "Комплект горница и долница",
             "image": "https://cdncloudcart.com/28617/products/images/291/mazki-vatiran-sporten-ekipi-louis-vuitton-v-2-cvata-63b44be80c231_600x600.jpeg?1672760315",
-            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+            "description": "Комплект горница и долница",
             "price": 22.35
         },
         {
             "id": "9",
-            "name": "Lorem",
+            "name": "Суитчър",
             "image": "https://blagoevgrad.eu/wp-content/uploads/2020/01/January-Mens-Clothes-ree-1zz.jpg",
-            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+            "description": "Суитчър",
             "price": 10.53
         },
         {
             "id": "10",
-            "name": "Lorem",
+            "name": "Тениска и къси гащи",
             "image": "https://eshkol.co/cdn/content-%D0%9B%D0%B5%D1%82%D0%BD%D0%B8-%D0%BC%D1%8A%D0%B6%D0%BA%D0%B8-%D0%BA%D0%BE%D0%BC%D0%BF%D0%BB%D0%B5%D0%BA%D1%82%D0%B8-2022-%D0%B3%D0%BE%D0%B4%D0%B8%D0%BD%D0%B0_1/55860.jpg",
-            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+            "description": "Бяла тениска с черни къси гащи",
             "price": 59.99
         }
     ],
     "Women": [
         {
             "id": "1",
-            "name": "Lorem",
+            "name": "Цялостен комплект",
             "image": "https://www.explosi.bg/image/catalog/SETOVE%201/17.02.2019/%20339-3.jpg",
-            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+            "description": "Цялостен комплект",
             "price": 62.34
         },
         {
             "id": "2",
-            "name": "Lorem",
+            "name": "Цялостен комплект",
             "image": "https://www.explosi.bg/image/catalog/SETOVE%201/17.02.2019/%20310-5.jpg",
-            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+            "description": "Цялостен комплект",
             "price": 12.54
         },
         {
             "id": "3",
-            "name": "Lorem",
+            "name": "Клин",
             "image": "https://sportfitbg.com/wp-content/uploads/2020/10/61aqxjsk6jl._ac_sx466_-1-500x375.jpg",
-            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+            "description": "Клин",
             "price": 23.67
         },
         {
             "id": "4",
-            "name": "Lorem",
+            "name": "Тениска",
             "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPS9yjnW2LaNkl-Iy19tsfnOEadsc81NAmuQ&usqp=CAU",
-            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+            "description": "Тениска",
             "price": 75.31
         },
         {
             "id": "5",
-            "name": "Lorem",
+            "name": "Тениска",
             "image": "https://frankfurt.apollo.olxcdn.com/v1/files/shaq44iwfls93-BG/image;s=1200x1600",
-            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+            "description": "Тениска",
             "price": 23.53
         },
         {
             "id": "6",
-            "name": "Lorem",
+            "name": "Тениска",
             "image": "https://modenoutlet.bg/userfiles/productthumbs/thumb_44674.jpg",
-            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+            "description": "Тениска",
             "price": 22.56
         },
         {
             "id": "7",
-            "name": "Lorem",
+            "name": "Спално бельо",
             "image": "https://www.pedirhythmpoland.org/ppt/nativemobile/bestw/78445-pizhami-zhenski-s-ks-rkav-noschnica-pizhami-tedi-top-i-ksi-pantaloni-pj-komplekt-damski-drehi-za-pochivka-obleklo-za-pochivka.jpg",
-            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+            "description": "Спално бельо",
             "price": 87.43
         },
         {
             "id": "8",
-            "name": "Lorem",
+            "name": "Обувки",
             "image": "https://static.glami.bg/img/228x298be/407809639.jpg",
-            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+            "description": "Обувки-бели",
             "price": 12.34
         },
         {
             "id": "9",
-            "name": "Lorem",
+            "name": "Обувки",
             "image": "https://static.glami.bg/img/228x298be/402671559.jpg",
-            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+            "description": "Обувки-бели",
             "price": 77.64
         },
         {
             "id": "10",
-            "name": "Lorem",
+            "name": "Обувки",
             "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4U_S_OYkaap7tf9ab9tAEM8rZanbwL6oIXw&usqp=CAU",
-            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+            "description": "Обувки-червени",
             "price": 23.32
         }
     ],
     "Children": [
         {
             "id": "1",
-            "name": "Lorem",
+            "name": "Официален комплект",
             "image": "https://www.galaxymart.net/uploads-94992-%D0%9C%D0%BE%D0%B4%D0%BD%D0%B8-%D0%B4%D0%B5%D1%82%D1%81%D0%BA%D0%B8-%D0%B4%D1%80%D0%B5%D1%85%D0%B8-%D0%BA%D0%BE%D0%BC%D0%BF%D0%BB%D0%B5%D0%BA%D1%82%D0%B8-4-img.jpg",
-            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+            "description": "Официален комплект",
             "price": 98.89
         },
         {
             "id": "2",
-            "name": "Lorem",
+            "name": "Комплект за свободно време",
             "image": "https://www.kinderland.bg/kat/img1645109012.jpg",
-            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+            "description": "Комплект за свободно време",
             "price": 19.56
         },
         {
             "id": "3",
-            "name": "Lorem",
+            "name": "Комплект за свободно време",
             "image": "https://www.alo.bg/user_files/m/mimi83_ivanova/6068028_106735258_big.jpg",
-            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+            "description": "Комплект за свободно време",
             "price": 23.12
         },
         {
             "id": "4",
-            "name": "Lorem",
+            "name": "Цялостен комплект с боти",
             "image": "https://cdn.alessa.bg/files/medium-small/IMG_6633x.jpg",
-            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+            "description": "Цялостен комплект с боти",
             "price": 160.30
         },
         {
             "id": "5",
-            "name": "Lorem",
+            "name": "Сандали",
             "image": "https://www.liderstil.com/uploadsp/img1612441135.jpg",
-            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+            "description": "Сандали",
             "price": 77.64
         },
         {
             "id": "6",
-            "name": "Lorem",
+            "name": "Спално бельо",
             "image": "https://www.xgwm.shop/upload/2-48989_wp-upload/2-%D0%B1%D1%80-%D0%BC%D0%BE%D0%B4%D0%BD%D0%B8-%D0%BC%D0%BE%D0%BC%D1%87%D0%B5%D1%82%D0%B0-%D0%BC%D0%BE%D0%BC%D0%B8%D1%87%D0%B5%D1%82%D0%B0-%D0%B5%D1%81%D0%B5%D0%BD.jpeg",
-            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+            "description": "Спално бельо",
             "price": 77.00
         },
         {
             "id": "7",
-            "name": "Lorem",
+            "name": "Комплект за свободно време",
             "image": "https://www.onemoretrend.bg/images/komplekt-detski-drehi-momiche-pyrex-imageapbig-150-116458.jpg",
-            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+            "description": "Комплект за свободно време",
             "price": 12.67
         },
         {
             "id": "8",
-            "name": "Lorem",
+            "name": "Тениска и къси гащи за момче",
             "image": "https://babystreet.bg/userfiles/productlargeimages/product_3508.jpg",
-            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+            "description": "Тениска и къси гащи за момче",
             "price": 12.34
         },
         {
             "id": "9",
-            "name": "Lorem",
+            "name": "Обувки-момче",
             "image": "https://cdn5.focus.bg/bazar/d1/pics/d151504e2229bc7d94009da8b3c4134b.jpg",
-            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+            "description": "Обувки-момче",
             "price": 75.34
         },
         {
             "id": "10",
-            "name": "Lorem",
+            "name": "Обувки-момиче",
             "image": "https://www.onemoretrend.bg/images/bebeshki-obuvki-za-momiche-graziella-imageapbig-71-13566.jpg",
-            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+            "description": "Обукви-момиче",
             "price": 73.64
         }
     ]
