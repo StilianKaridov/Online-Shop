@@ -10,7 +10,7 @@ function Footer() {
 
     return (
 
-        <footer>
+        <footer className='mt-auto'>
             <div className="d-flex justify-content-between ps-5" style={{ backgroundColor: 'rgb(37, 35,	36)'}}>
 
                 <div className="mt-5 mb-5 row w-50">
